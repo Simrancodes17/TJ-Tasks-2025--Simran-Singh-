@@ -1,0 +1,17 @@
+Create a single-file, self-contained HTML/CSS/vanilla JS Tic-Tac-Toe game with an earth tones UI. The app should include:
+
+A visually appealing scoreboard showing X Wins, O Wins, and Draws.
+
+A responsive, animated, rounded 3x3 game board styled with soft earth colors (clay brown, olive green, sand).
+
+Real-time status text that shows whose turn it is, plus clear win/draw messages.
+
+Win detection using 8 standard patterns and proper draw handling.
+
+Buttons for Replay (keeps score) and Reset (resets scores).
+
+Keyboard/accessibility friendly: cells must be accessible by tab, with visible focus cues.
+
+No external dependencies; all code is in one HTML file.
+
+UI uses a warm earth tone gradient for background, a soft card container with rounded corners, and subtle shadows.
