@@ -46,7 +46,7 @@ Ensured the interface was accessible and responsive for all users. Utilizing onl
 
 ## Screenshots of Final Output
 
-![Screenshot](Screenshot-182.jpg)
+![Screenshot](Screenshot.jpg)
 
 ---
 
